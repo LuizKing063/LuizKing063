@@ -1,6 +1,5 @@
 <h1>>>>print(f'Olá!Meu nome é {nome}.'}</h1>
 <h1>Olá! Meu nome é Luiz Gustavo.</h1>
-<h2>👨‍💻Atualmente trabalho como Desenvolvedor full stack para a empresa Noovi👨‍💻</h2>
 <div align="center">
   <a href="https://github.com/LuizKing063">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizKing063&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
